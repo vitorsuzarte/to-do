@@ -1,0 +1,21 @@
+.taskCompletion{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.numberPill{
+    background-color: var(--gray-100);
+    border-radius: 10px;
+    color: black;
+    padding: 1.5px 3.5px;
+    font-size: 0.9rem;
+}
+
+.wrapper {
+    margin-top: 2.5rem;
+}
+
+.taskBoard{
+    
+}
